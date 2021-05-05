@@ -38,4 +38,12 @@ Interpret model(s) such a way that illustrate which features affect candidate de
 Please refer to the following task for more details:
 https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists/tasks?taskId=3015
 
- 
+### Files:
+main.ipynb : The main jupyter notebook file that contains the code. 
+
+### Libaries needed:
+- Numpy
+- Pandas 
+- Sklearn
+- Seaborn
+- Matplotlib
